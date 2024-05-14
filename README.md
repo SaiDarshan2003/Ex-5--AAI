@@ -61,7 +61,8 @@ plt.show()
 
 <H3>Output:</H3>
 
-![image](https://github.com/SaiDarshan2003/Ex-5--AAI/assets/94692595/93a17483-a1bd-4861-8da7-b35296ce0754)
+![image](https://github.com/SaiDarshan2003/Ex-5--AAI/assets/94692595/453d5860-4cfe-4f58-961b-eb51949aec79)
+
 
 
 
