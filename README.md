@@ -3,8 +3,11 @@
 <H3>EX. NO.5</H3>
 <H3>DATE : 16.03.2024</H3>
 <H2 ALIGN =CENTER> Implementation of Kalman Filter</H2>
-<H3>Aim:</H3> To Construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
-<H3>Algorithm:</H3>
+
+## Aim:
+To Construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
+
+## Algorithm:
 
 Step 1: Define the state transition model F, the observation model H, the process noise covariance Q, 
 the measurement noise covariance R, the initial state estimate x0, initial error covariance P0.<BR>
